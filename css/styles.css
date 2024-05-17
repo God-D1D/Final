@@ -1,0 +1,115 @@
+body{
+    background-color: #B4B4B8;
+}
+
+.raiderlg{
+    float: left;
+}
+
+
+h1{
+    font-family: "Bebas Neue", sans-serif;
+    color: crimson;
+    text-align: center;
+}
+
+.container{
+    background-color: black;
+}
+
+hr{
+    color:crimson;
+}
+
+.place{
+    font-family: "Bebas Neue", sans-serif;
+    color: crimson;
+    text-align: center;
+}
+
+#navbar {
+    overflow: hidden;
+    background-color: #333;
+}
+
+#navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+    display: block;
+    margin-left: 200px;
+    font-family: "Bebas Neue", sans-serif;
+  }
+
+  .content {
+    padding: 16px;
+  }
+
+  .sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+
+  .sticky + .content {
+    padding-top: 60px;
+  }
+
+
+
+  .card{
+  box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 800px;
+  height: 400px;
+  margin-left: 550px;
+  margin-top: 130px;
+  background-color: whitesmoke;
+  word-spacing: 6px;
+  }
+
+  .card:hover{
+    box-shadow: 0 20px 26px 0 rgba(0,0,0,0.2);
+  }
+
+  .cont{
+    padding: 2px 16px;
+  }
+  
+  .aboutUs{
+    box-shadow: 0 20px 26px 0 rgba(0,0,0,0.2);
+    text-shadow: 2px 2px black;
+
+  }
+
+.Gavin{
+  border-radius: 85%;
+}
+
+.card2{
+  float: left;
+  box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  width: 800px;
+  height: 800px;
+  margin-left: 550px;
+  margin-top: 130px;
+  background-color: whitesmoke;
+  word-spacing: 6px;
+  }
+
+  .card3{
+    float: left;
+    box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 400px;
+    height: 300px;
+    margin-left: 550px;
+    margin-top: 130px;
+    background-color: whitesmoke;
+    word-spacing: 6px;
+    }
+  
